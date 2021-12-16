@@ -10,7 +10,8 @@ html {
 .bes {
 	background-image: url(https://pbs.twimg.com/profile_images/1444479784982130693/onlJbcTK_400x400.jpg);	
 	background-opacity: 50%;
-	width: 100%;
+	width: 200px !important;
+	height: auto;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -18,7 +19,8 @@ html {
 .kda {
 	background-image: url(https://pbs.twimg.com/profile_images/1443603943817424901/HxT7FTfO_400x400.jpg);	
 	background-opacity: 50%;
-	width: 100%;
+	width: 200px !important;
+	height: auto;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -27,7 +29,8 @@ html {
 .tfx {
 	background-image: url(https://pbs.twimg.com/profile_images/1410337639866175490/mR_Xz6Hs_400x400.jpg);	
 	background-opacity: 50%;
-	width: 100%;
+	width: 200px !important;
+	height: auto;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -35,7 +38,8 @@ html {
 .four {
 	background-image: url(https://pbs.twimg.com/profile_images/1405886251358724099/Xz4hFv7n_400x400.jpg);	
 	background-opacity: 50%;
-	width: 100%;
+	width: 200px !important;
+	height: auto;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
