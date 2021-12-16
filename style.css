@@ -7,6 +7,11 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
+.tfx {
+	background: url(https://pbs.twimg.com/profile_images/1410337639866175490/mR_Xz6Hs_400x400.jpg);	
+	background-opacity: 50%;
+}
+
 .logo{
 	position: relative;
 	background: url(TMT-Atena-Logo.png) no-repeat center center scroll; 
