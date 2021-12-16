@@ -1,0 +1,33 @@
+html { 
+  background: url(TMT-Atena-Background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Open Sans", sans-serif;
+}
+
+.logo{
+	position: relative;
+	background: url(TMT-Atena-Logo.png) no-repeat center center scroll; 
+	background-size: auto 320px;
+    background-position: top;
+	height: 320px;
+	/*margin-top: -10%; */
+}
+
+body {
+	background-color: transparent;
+}
+
+.card {
+	padding-top: 2em;
+	padding-bottom: 1em;
+	border-right: 1em;
+	margin-bottom: 1em;
+	background-color: #4c2671 !important;
+}
+
+.t-2 {
+	padding-top: 0.5em;
+}
