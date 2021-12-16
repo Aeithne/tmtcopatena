@@ -8,24 +8,36 @@ html {
 }
 
 .bes {
-	background: url(https://pbs.twimg.com/profile_images/1444479784982130693/onlJbcTK_400x400.jpg);	
+	background-image: url(https://pbs.twimg.com/profile_images/1444479784982130693/onlJbcTK_400x400.jpg);	
 	background-opacity: 50%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .kda {
-	background: url(https://pbs.twimg.com/profile_images/1443603943817424901/HxT7FTfO_400x400.jpg);	
+	background-image: url(https://pbs.twimg.com/profile_images/1443603943817424901/HxT7FTfO_400x400.jpg);	
 	background-opacity: 50%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 
 .tfx {
-	background: url(https://pbs.twimg.com/profile_images/1410337639866175490/mR_Xz6Hs_400x400.jpg);	
+	background-image: url(https://pbs.twimg.com/profile_images/1410337639866175490/mR_Xz6Hs_400x400.jpg);	
 	background-opacity: 50%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .four {
-	background: url(https://pbs.twimg.com/profile_images/1405886251358724099/Xz4hFv7n_400x400.jpg);	
+	background-image: url(https://pbs.twimg.com/profile_images/1405886251358724099/Xz4hFv7n_400x400.jpg);	
 	background-opacity: 50%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .logo{
